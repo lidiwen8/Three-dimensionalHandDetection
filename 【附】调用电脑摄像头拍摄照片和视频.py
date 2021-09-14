@@ -15,7 +15,7 @@
 # 导入python绘图matplotlib
 import matplotlib.pyplot as plt
 # 使用ipython的魔法方法，将绘制出的图像直接嵌入在notebook单元格中
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 
 # 定义可视化图像函数
 def look_img(img):

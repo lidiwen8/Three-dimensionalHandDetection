@@ -35,7 +35,7 @@ mpDraw = mp.solutions.drawing_utils
 # In[10]:
 
 
-get_ipython().run_line_magic('pinfo', 'mp_hands.Hands')
+# get_ipython().run_line_magic('pinfo', 'mp_hands.Hands')
 
 
 # # 处理单帧的函数
@@ -200,13 +200,13 @@ def generate_video(input_path='./videos/three-hands.mp4'):
 # In[11]:
 
 
-generate_video(input_path='./videos/three_hands.mp4')
+generate_video(input_path='E:\\video\\B\\lishuihan\\P1_CG1.flv')
 
 
 # In[16]:
 
 
-generate_video(input_path='./videos/start.mp4')
+# generate_video(input_path='./videos/start.mp4')
 
 
 # In[ ]:
